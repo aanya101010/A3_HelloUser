@@ -8,7 +8,7 @@ public class A3_HelloUser {
         System.out.print("Aanya: ");
         String name = scanner.nextLine();
 
-        System.out.println("Hello " + "Aanya" + ".");
+        System.out.println("Hello " + Aanya + ".");
 
         scanner.close();
     }
